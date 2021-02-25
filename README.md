@@ -20,7 +20,7 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 - **onDetach()** dipanggil saat fragment tidak lagi terhubung ke sebuah activity.
 
 ### Hasil Program
-![ezgif-2-c7e90efbf27c](https://user-images.githubusercontent.com/60590053/109190828-1a19e000-77c8-11eb-90a0-54d6dd5452d7.gif)
+![WhatsApp-Video-2021-02-25-at-222](https://user-images.githubusercontent.com/60590053/109195000-96aebd80-77cc-11eb-9b19-47f2372a219f.gif)
 
 - Fragment 1 : Halaman Hewan Kucing
 
