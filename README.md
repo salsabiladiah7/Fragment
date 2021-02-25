@@ -6,7 +6,7 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 
 
 ## Lifecycle Fragment
-> Pada dasarnya Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang hampir sama seperti activity tetapi memiliki “lifecycle” yang berbeda.
+> Pada dasarnya Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang hampir sama seperti activity tetapi memiliki “lifecycle” yang berbeda. Berikut adalah lifecycle dalam Fragment:
 - **onAttach()** dipanggil saat sebuah fragment terhubung ke activity.
 - **onCreate()** diapnggil saat sebuah fragment dibuat (objeknya di memori).
 - **onCreateView()** dipanggil saat fragment sudah siap membaca sebuah layout.
@@ -23,11 +23,11 @@ Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 ![ezgif-2-c7e90efbf27c](https://user-images.githubusercontent.com/60590053/109190828-1a19e000-77c8-11eb-90a0-54d6dd5452d7.gif)
 
 - Fragment 1 : Halaman Hewan Kucing
-- 
+
 ![WhatsApp Image 2021-02-25 at 22 27 23 (2)](https://user-images.githubusercontent.com/60590053/109190846-1dad6700-77c8-11eb-9c52-e0664bf2baa9.jpeg)
 
 - Fragment 2 : Halaman Hewan Anjing
-- 
+
 ![WhatsApp Image 2021-02-25 at 22 26 16](https://user-images.githubusercontent.com/60590053/109190853-200fc100-77c8-11eb-9d13-790c4b119c26.jpeg)
 
 ## Terimakasih
